@@ -1,1 +1,1 @@
-# react-placepicker-httprequest
+# React: place picker with HTTP - request
